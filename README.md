@@ -1,3 +1,8 @@
+
+![Dashboard Page 1](https://github.com/user-attachments/assets/1eacf2bf-931b-40a9-ace5-099358368f7a)
+
+![Dashboard Page 2](https://github.com/user-attachments/assets/f019c8eb-6a07-4f84-8858-58a6014121ef)
+
 # DATASET
 Data - Job layoff data comprising 2362 rows from 2020 to 2023.
 Data cleaning and analysis - Postgres
